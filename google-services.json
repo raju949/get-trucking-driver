@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "602205919632",
+    "firebase_url": "https://get-trucking-c0435-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "get-trucking-c0435",
+    "storage_bucket": "get-trucking-c0435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602205919632:android:61c2b664eee31a4759fb15",
+        "android_client_info": {
+          "package_name": "com.kingpawan.gettrucking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602205919632-36lnba549jjhovo6bsoia830auavek3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingpawan.gettrucking",
+            "certificate_hash": "a0a9ce726901fa432e169dbf8ed397d9486fd6d4"
+          }
+        },
+        {
+          "client_id": "602205919632-odrlvka2014fra0ro6r1ogognmfhfn70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingpawan.gettrucking",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "602205919632-kh7o0ll1q0a90sk4lu1vfb2uvceblben.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Fz5cOjIU3F2-7LnyPwMLrohp9ntaXs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602205919632-kh7o0ll1q0a90sk4lu1vfb2uvceblben.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602205919632:android:cb65628e24a5cca359fb15",
+        "android_client_info": {
+          "package_name": "com.kingpawan.gettruckingdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602205919632-jhhpbsk6jua0epq732ch0rnfjpt8um2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingpawan.gettruckingdriver",
+            "certificate_hash": "a0a9ce726901fa432e169dbf8ed397d9486fd6d4"
+          }
+        },
+        {
+          "client_id": "602205919632-kh7o0ll1q0a90sk4lu1vfb2uvceblben.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Fz5cOjIU3F2-7LnyPwMLrohp9ntaXs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602205919632-kh7o0ll1q0a90sk4lu1vfb2uvceblben.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
